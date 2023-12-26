@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.12cf9aab.js",
-    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/static/js/main.1ac99af8.js",
+    "static/media/gemClone.png": "/static/media/gemClone.0e44c8deb89af7d51aad.png",
+    "static/media/boatClone.png": "/static/media/boatClone.87effb5151c5fb93da65.png",
+    "static/media/kratika-jharbade-Resume.pdf": "/static/media/kratika-jharbade-Resume.ab843e6b1aafa67ebbf9.pdf",
+    "static/media/kratika.png": "/static/media/kratika.882233ff4b0e0f616672.png",
+    "static/media/vscode.svg": "/static/media/vscode.c41e81d3363b36f13c61f5092edca24d.svg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.12cf9aab.js.map": "/static/js/main.12cf9aab.js.map",
-    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
+    "main.1ac99af8.js.map": "/static/js/main.1ac99af8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.12cf9aab.js"
+    "static/js/main.1ac99af8.js"
   ]
 }
